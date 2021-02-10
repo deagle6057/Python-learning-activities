@@ -1,0 +1,6 @@
+no,first name,last name,ages
+1,Akif,Ak,52
+2,Zeynep,Ak,44
+3,Mert,Ak,22
+4,Tarik,Ak,20
+5,Murat,Ak,15
